@@ -1,0 +1,3 @@
+Project: Collaborative Git Project
+Purpose: Learning Git and GitHub.
+Tools: Git and GitHub.
